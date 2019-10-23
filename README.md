@@ -14,6 +14,7 @@ Features:
 ->filter transactions by expense or income
 ->show statistics in piecharts on how much money you spent on different categories/ how much money come from different income sources
 ->search transactions by date,hour,category,type or description
+->actions when hovering/clicking slices of piecharts in the status meniu
 
 *The comments in the main.cpp file show a glimpse in the thinking process
 and the steps taken during the development of the application
