@@ -16,5 +16,8 @@ Features:
 ->search transactions by date,hour,category,type or description
 ->actions when hovering/clicking slices of piecharts in the status meniu
 
+What I learned:
+->how to create statistics and display them in charts + interraction with charts
+->UI interaction and a bit of UI design
 *The comments in the main.cpp file show a glimpse in the thinking process
 and the steps taken during the development of the application
